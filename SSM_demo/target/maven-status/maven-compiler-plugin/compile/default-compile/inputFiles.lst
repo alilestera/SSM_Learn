@@ -2,6 +2,7 @@ D:\Projects\SSM_Learn\SSM_demo\src\main\java\com\alilestera\controller\UserContr
 D:\Projects\SSM_Learn\SSM_demo\src\main\java\com\alilestera\exception\MyControllerAdvice.java
 D:\Projects\SSM_Learn\SSM_demo\src\main\java\com\alilestera\service\UserService.java
 D:\Projects\SSM_Learn\SSM_demo\src\main\java\com\alilestera\common\PageResult.java
+D:\Projects\SSM_Learn\SSM_demo\src\main\java\com\alilestera\aspect\MyAspect.java
 D:\Projects\SSM_Learn\SSM_demo\src\main\java\com\alilestera\common\ResponseResult.java
 D:\Projects\SSM_Learn\SSM_demo\src\main\java\com\alilestera\dao\UserDao.java
 D:\Projects\SSM_Learn\SSM_demo\src\main\java\com\alilestera\domain\User.java

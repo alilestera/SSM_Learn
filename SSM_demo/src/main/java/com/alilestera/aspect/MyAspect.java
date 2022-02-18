@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 public class MyAspect {
 
     //定义切点
-    @Pointcut("execution(* com.alilestera.controller.*.*(..))")
+    @Pointcut("execution(* com.alilestera.service..*.*(..))")
     public void pt() {
     }
 
